@@ -10,5 +10,5 @@ $apt upgrade && apt update
 $apt install git
 $apt install python
 $git clone https://github.com/nizar-sys/quotenime.git
-$cd qoute
+$cd qoutenime
 $python qoute.py
