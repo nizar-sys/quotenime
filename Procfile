@@ -1,1 +1,1 @@
-web: python quote.py runserver 0.0.0.0:5000
+web: py quote.py runserver 0.0.0.0:5000
